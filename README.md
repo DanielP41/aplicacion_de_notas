@@ -1,10 +1,10 @@
-# 📝 Aplicación de Notas
+# Aplicación de Notas
 
 Una aplicación web para gestionar notas personales, desarrollada con Spring Boot y React.
 
 Este proyecto fue creado como parte del desafío técnico de Ensolvers.
 
-## 🚀 Características
+## Características
 
 - Crear notas con título y contenido
 - Editar notas existentes
@@ -13,7 +13,7 @@ Este proyecto fue creado como parte del desafío técnico de Ensolvers.
 - Interfaz simple y fácil de usar
 - API REST para todas las operaciones
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 **Backend:**
 - Java 21
@@ -26,7 +26,7 @@ Este proyecto fue creado como parte del desafío técnico de Ensolvers.
 - Vite
 - Axios para las peticiones HTTP
 
-## 📋 Requisitos Previos
+## Requisitos Previos
 
 Antes de empezar, asegúrate de tener instalado:
 
@@ -35,7 +35,7 @@ Antes de empezar, asegúrate de tener instalado:
 - PostgreSQL
 - Maven
 
-## ⚙️ Instalación y Configuración
+## Instalación y Configuración
 
 ### 1. Clonar el repositorio
 
@@ -82,14 +82,14 @@ npm run dev
 
 La aplicación estará disponible en `http://localhost:5173`
 
-## 📱 Uso
+## Uso
 
 1. Abre tu navegador en `http://localhost:5173`
 2. Usa el formulario para crear una nueva nota
 3. Puedes editar, archivar o eliminar notas desde la lista
 4. Cambia entre notas activas y archivadas usando las pestañas
 
-## 🔌 API Endpoints
+## API Endpoints
 
 La API REST está disponible en `http://localhost:8081/api/notes`
 
@@ -114,7 +114,7 @@ POST /api/notes
 }
 ```
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 aplicacion_de_notas/
@@ -139,7 +139,7 @@ aplicacion_de_notas/
     └── package.json
 ```
 
-## 🧪 Testing
+## Testing
 
 Para ejecutar los tests del backend:
 
@@ -148,7 +148,7 @@ cd backend
 mvn test
 ```
 
-## 🐛 Problemas Comunes
+## Problemas Comunes
 
 **Error de conexión a la base de datos:**
 - Verifica que PostgreSQL esté corriendo
@@ -159,7 +159,7 @@ mvn test
 - Verifica que el backend esté corriendo en el puerto 8081
 - Revisa la configuración de CORS en el backend
 
-## 💡 Mejoras Futuras
+## Mejoras Futuras
 
 Algunas ideas para mejorar la aplicación:
 
@@ -170,14 +170,14 @@ Algunas ideas para mejorar la aplicación:
 - [ ] Exportar notas a PDF
 - [ ] Recordatorios
 
-## 👤 Autor
+## Autor
 
 Daniel P. - [GitHub](https://github.com/DanielP41)
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto fue desarrollado como parte de un desafío técnico.
 
 ---
 
-**Nota:** Este es mi primer proyecto full-stack completo. Cualquier feedback es bienvenido! 😊
+**Nota:** Este es mi primer proyecto full-stack completo. Cualquier feedback es bienvenido!
