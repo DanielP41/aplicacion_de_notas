@@ -1,0 +1,16 @@
+# Archivos de configuración con credenciales
+backend/src/main/resources/application.properties
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
