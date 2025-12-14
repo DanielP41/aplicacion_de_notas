@@ -28,8 +28,6 @@ Este proyecto fue creado como parte del desafío técnico de Ensolvers.
 
 ## 📋 Requisitos Previos
 
-Antes de empezar, asegúrate de tener instalado:
-
 - Java 21 o superior
 - Node.js (versión 18 o superior)
 - PostgreSQL
