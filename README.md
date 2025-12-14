@@ -170,14 +170,7 @@ Algunas ideas para mejorar la aplicación:
 - [ ] Exportar notas a PDF
 - [ ] Recordatorios
 
-## 👤 Autor
-
-Daniel P. - [GitHub](https://github.com/DanielP41)
-
-## 📄 Licencia
 
 Este proyecto fue desarrollado como parte de un desafío técnico.
 
----
-
-**Nota:** Este es mi primer proyecto full-stack completo. Cualquier feedback es bienvenido! 😊
+ Cualquier feedback es bienvenido!
