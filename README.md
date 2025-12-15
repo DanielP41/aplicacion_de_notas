@@ -173,4 +173,4 @@ Algunas ideas para mejorar la aplicación:
 
 Este proyecto fue desarrollado como parte de un desafío técnico.
 
-**Nota:** Este es mi primer proyecto full-stack completo. Cualquier feedback es bienvenido!
+Este es mi primer proyecto full-stack completo. Cualquier feedback es bienvenido!
